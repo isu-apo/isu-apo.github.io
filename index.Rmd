@@ -15,7 +15,7 @@ This is a common site for staying organized and keeping notes as we move forward
 
 [Notes from first meeting, 2017-09-26](https://docs.google.com/document/d/1HaewNGLWFPwe_dSWHHTJq7HrVedgE_ifPPK2P9H7hIk/edit?usp=sharing)  
 
-**Meeting to discuss competitive grant program 2017-10-11 11:00**
+**Meeting to discuss competitive grant program 2017-10-11 11:00, Agron 2104**
 
 
 ```{r bib, include=FALSE}
