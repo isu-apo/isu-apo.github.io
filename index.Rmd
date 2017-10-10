@@ -1,0 +1,24 @@
+---
+title: "ISU Agronomy Postdoctoral Organization"
+output: markdowntemplates::skeleton
+---
+This is a common site for staying organized and keeping notes as we move forward with APO business. While it will still be good to communicate in email threads, we'll try to keep summaries and links here. If we find the site useful, we can put a little time into making it better!
+
+### Shared Documents
+
+[Structure of the APO](https://docs.google.com/document/d/1ZbOu1af3YpdviDESmuv5rq0Oz5XNe7itl2qy-g3X39k/edit?usp=sharing)  
+
+[List of postdocs interested in guest lecturing](https://docs.google.com/spreadsheets/d/1G7rReXs7OfhQJPGN486d6t7iWZbHONHJYz0MiEOCeAY/edit?usp=sharing)  
+
+
+### Meetings
+
+[Notes from first meeting, 2017-09-26](https://docs.google.com/document/d/1HaewNGLWFPwe_dSWHHTJq7HrVedgE_ifPPK2P9H7hIk/edit?usp=sharing)  
+
+**Next meeting 2017-10-11 11:00**
+
+
+```{r bib, include=FALSE}
+# KEEP THIS AT THE END OF THE DOCUMENT TO GENERATE A LOCAL bib FILE FOR PKGS USED
+knitr::write_bib(sub("^package:", "", grep("package", search(), value=TRUE)), file='skeleton.bib')
+```
