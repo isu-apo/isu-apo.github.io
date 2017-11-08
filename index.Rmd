@@ -4,6 +4,14 @@ output: markdowntemplates::skeleton
 ---
 This is a common site for staying organized and keeping notes as we move forward with APO business. While it will still be good to communicate in email threads, we'll try to keep summaries and links here. If we find the site useful, we can put a little time into making it better!
 
+###Nominations for Elected Positions  
+  * Co-chair (will select 2)  
+  * Chief Financial Officer  
+  * Postdoc Welcome Committee Chair  
+  * Postdoc Departmental Seminar Committee Chair  
+  * Postdoc Competitive Grant Committee Chair  
+  
+
 ### Shared Documents
 
 [Structure of the APO](https://docs.google.com/document/d/1ZbOu1af3YpdviDESmuv5rq0Oz5XNe7itl2qy-g3X39k/edit?usp=sharing)  
@@ -15,7 +23,8 @@ This is a common site for staying organized and keeping notes as we move forward
 
 [Notes from first meeting, 2017-09-26](https://docs.google.com/document/d/1HaewNGLWFPwe_dSWHHTJq7HrVedgE_ifPPK2P9H7hIk/edit?usp=sharing)  
 
-**Meeting to discuss competitive grant program 2017-10-11 11:00, Agron 2104**
+[Meeting to discuss competitive grant program 2017-10-11, Notes and Write-up](https://docs.google.com/document/d/1rr-LPmVDnkAb7nq4F6-aoQVVteZg3KzzqLHt8GuVwiQ/edit?usp=sharing)  
+
 
 
 ```{r bib, include=FALSE}
