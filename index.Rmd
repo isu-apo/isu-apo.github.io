@@ -4,23 +4,18 @@ output: markdowntemplates::skeleton
 ---
 This is a common site for staying organized and keeping notes as we move forward with APO business. While it will still be good to communicate in email threads, we'll try to keep summaries and links here. If we find the site useful, we can put a little time into making it better!
 
-###Nominations for Elected Positions  
-  * Co-chair (will select 2)  
-    + Girma Birru  
-    + Ranae Dietzel  
-    + Deliana Kool  
-    + Mriganka De  
-    + Farnaz Kordbacheh  
+###Elected Positions  
+  * Co-chair  
+    +  Ranae Dietzel  
+    +  Farnaz Kordbacheh  
   * Chief Financial Officer  
     + Mriganka De  
   * Postdoc Welcome Committee Chair  
     + Mostafa Ibrahim  
-  * Postdoc Departmental Seminar Committee Chair  
   * Postdoc Competitive Grant Committee Chair  
     + Deliana Kool  
     + Ranae Dietzel  
-    + Mriganka De  
-  
+
 
 ### Shared Documents
 
